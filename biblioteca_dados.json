@@ -1,0 +1,22 @@
+{
+    "livros": {
+        "cd70891a": {
+            "id": "cd70891a",
+            "titulo": "1984",
+            "autor": "George Orwell",
+            "ano": "1949",
+            "status": "Dispon\u00edvel"
+        }
+    },
+    "usuarios": {
+        "46e07972": {
+            "id": "46e07972",
+            "nome": "Maria Silva"
+        },
+        "b570a38b": {
+            "id": "b570a38b",
+            "nome": "Jo\u00e3o Alves"
+        }
+    },
+    "emprestimos": []
+}
